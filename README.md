@@ -16,12 +16,17 @@ A feature flag management system built around fast evaluations and keeping cache
 
 **Highlights:** Spring Boot; Redis caching and Pub/Sub; a lightweight Java SDK; Terraform and CI/CD.
 
-## What I work with
+## Technologies
 
-- **Backend:** Java, Spring Boot, Python, FastAPI, REST APIs
-- **Data:** PostgreSQL, MySQL, Redis
-- **Engineering:** software design, authentication and authorization, testing, performance and load testing
-- **Delivery:** Docker, Docker Compose, Terraform, GitHub Actions
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+Alongside these, I work with MySQL, REST APIs, authentication and authorization, testing, performance and load testing, Docker Compose, Terraform, and GitHub Actions.
 
 ## Get in touch
 
